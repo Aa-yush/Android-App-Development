@@ -1,3 +1,3 @@
-#.Example Repository 
+#Example Repository 
 
-Hi This is Example repository
+This This is Example repository
